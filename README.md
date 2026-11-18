@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://andrevis.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=620&lines=Full+Stack+Developer+%7C+React+Specialist;I+build+fast%2C+responsive+web+apps;React+%C2%B7+JavaScript+%C2%B7+Node.js+%C2%B7+SQL;Open+to+Frontend+%2F+Full+Stack+roles+%F0%9F%9A%80" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=38BDF8&center=true&vCenter=true&width=620&lines=Full+Stack+Developer+%7C+React+Specialist;I+build+fast%2C+responsive+web+apps;React+%C2%B7+JavaScript+%C2%B7+Node.js+%C2%B7+SQL;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing animation" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@ I'm a **Full Stack Developer** focused on **React**, building responsive, user-f
 - 🔭 Currently working as a **Senior Asset Management Systems Analyst** at **Thermo Fisher Scientific**, building automation and reporting tools with Power Automate, Power Apps and Power BI
 - ⚛️ Building web apps with **React, JavaScript, Node.js and SQL**
 - 🌱 Leveling up my **backend and full stack** skills
-- 🎯 Looking for **Frontend (React)** or **Full Stack** roles in Costa Rica or remote
+- 💡 I enjoy turning ideas into fast, user-friendly web apps
 - 🌐 Portfolio: **[andrevis.dev](https://andrevis.dev)**
 
 <br clear="right" />
